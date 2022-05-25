@@ -1,0 +1,61 @@
+body {
+    background-color: hsl(233, 47%, 7%);
+}
+
+main {
+    background-color: hsl(244, 38%, 16%);
+}
+
+
+ /* border box*/
+/* ****************************************************************************************  */
+/*
+body {
+    border: 1px solid white;
+}
+.container {
+    border: 1px solid pink;
+}
+footer {
+    border: 1px solid rgb(243, 243, 174);
+}
+.col_left {
+    border: 1px solid green;
+}
+
+.col_right {
+    border: 1px solid rgb(110, 110, 215);
+}
+
+section {
+    border: 1px solid rgb(195, 235, 103);
+}
+
+.cover {
+    border: 1px solid rgb(103, 224, 235);
+}
+*/
+/*   *********************************************************************************     */
+
+
+/* add a purple mask on img */
+.col_right {
+    background-color: hsl(277, 98%, 50%);
+}
+
+.col_right img {
+    opacity: 0.5;
+}
+
+.col_left h1 span {
+    color: hsl(277, 64%, 61%);
+}
+
+.col_left p {
+    color: hsla(0, 0%, 100%, 0.6);
+}
+.col_left h1 {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.attribution a { color: hsl(228, 45%, 44%); }
